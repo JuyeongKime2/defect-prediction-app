@@ -1,0 +1,14 @@
+# 가상환경 폴더 제외
+.venv/
+venv/
+ENV/
+
+# VS Code 설정 폴더 제외
+.vscode/
+
+# 파이썬 캐시 파일 제외
+__pycache__/
+*.pyc
+
+# 엑셀 결과 리포트 등 생성 파일 제외
+*.xlsx
