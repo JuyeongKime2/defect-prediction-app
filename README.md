@@ -4,6 +4,10 @@ NASA MDP (JM1 + CM1) 코드 메트릭 데이터를 활용하여 소프트웨어 
 
 ---
 
+## 배포 사이트
+🔗 [Streamlit 앱 바로가기](https://defect-prediction-app-ergntpi64o9gc6pnluud7g.streamlit.app/)
+---
+
 ##  주요 특징 및 해결 과제
 
 1. **데이터 병합 및 정제**
@@ -36,7 +40,4 @@ defect-prediction-app/
 ├── requirements.txt           # 파이썬 필수 패키지 목록
 └── README.md
 
----
 
-## 배포 사이트
-🔗 [Streamlit 앱 바로가기](https://defect-prediction-app-ergntpi64o9gc6pnluud7g.streamlit.app/)
