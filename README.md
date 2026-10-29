@@ -35,3 +35,8 @@ defect-prediction-app/
 ├── app.py                     # Streamlit 웹 대시보드 메인 앱
 ├── requirements.txt           # 파이썬 필수 패키지 목록
 └── README.md
+
+---
+
+## 배포 사이트
+🔗 [Streamlit 앱 바로가기](https://defect-prediction-app-ergntpi64o9gc6pnluud7g.streamlit.app/)
