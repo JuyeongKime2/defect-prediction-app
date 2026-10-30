@@ -439,6 +439,7 @@ def register_korean_font():
         return font_name
 
     candidates = [
+        Path(__file__).resolve().parent / "fonts" / "NanumGothic.ttf",
         Path("C:/Windows/Fonts/malgun.ttf"),
         Path("/usr/share/fonts/truetype/nanum/NanumGothic.ttf"),
         Path("/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc"),
