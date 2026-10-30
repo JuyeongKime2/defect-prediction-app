@@ -5,7 +5,7 @@ NASA MDP (JM1 + CM1) 코드 메트릭 데이터를 활용하여 소프트웨어 
 ---
 
 ## 배포 사이트
-🔗 [Streamlit 앱 바로가기](https://defect-prediction-app-ergntpi64o9gc6pnluud7g.streamlit.app/)
+🔗 [Streamlit_ AI 소프트웨어 결함 예측 앱 바로가기](https://defect-prediction-app-ergntpi64o9gc6pnluud7g.streamlit.app/)
 ---
 
 ##  주요 특징 및 해결 과제
