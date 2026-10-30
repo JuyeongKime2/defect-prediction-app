@@ -1,11 +1,13 @@
-# AI기반 소프트웨어 결함 예측 모델 개발 및 시각화 대시보드
+# Quality Intelligence | 결함 예측
 
-NASA MDP (JM1 + CM1) 코드 메트릭 데이터를 활용하여 소프트웨어 모듈의 결함 위험도를 예측하고, QA(품질보증) 부서에서 실시간으로 검사 및 리포트를 다운로드할 수 있는 Streamlit 웹 대시보드 시스템입니다.
+코드 메트릭으로 소프트웨어 모듈의 결함 위험도를 예측하고, QA가 우선 검토할 대상을 정하는 Streamlit 대시보드입니다.
 
----
+NASA MDP(JM1 + CM1)로 학습한 Random Forest 모델을 사용합니다. 모듈 메트릭이 담긴 엑셀을 올리면 결함 의심 모듈 수, 결함 비율, 위험 수준(높음 / 중간 / 낮음)을 바로 보여 줍니다. 집중 테스트 권장 목록과 권장 QA 프로세스, 세부 예측 결과를 엑셀과 PDF 보고서로 받을 수 있습니다.
 
-## 배포 사이트
-🔗 [Streamlit_ AI 소프트웨어 결함 예측 앱 바로가기](https://defect-prediction-app-ergntpi64o9gc6pnluud7g.streamlit.app/)
+🔗 [배포 사이트](https://defect-prediction-app-ergntpi64o9gc6pnluud7g.streamlit.app/)
+
+🔗 [데이터셋 출처] https://www.kaggle.com/datasets/radowanulhaque/software-defect
+
 ---
 
 ##  주요 특징 및 해결 과제
