@@ -4,7 +4,7 @@
 
 NASA MDP(JM1 + CM1)로 학습한 Random Forest 모델을 사용합니다. 모듈 메트릭이 담긴 엑셀을 올리면 결함 의심 모듈 수, 결함 비율, 위험 수준(높음 / 중간 / 낮음)을 바로 보여 줍니다. 집중 테스트 권장 목록과 권장 QA 프로세스, 세부 예측 결과를 엑셀과 PDF 보고서로 받을 수 있습니다.
 
-🔗 [배포 사이트](https://defect-prediction-app-ergntpi64o9gc6pnluud7g.streamlit.app/)
+🔗 [배포 사이트] https://defect-prediction-app-ergntpi64o9gc6pnluud7g.streamlit.app/
 
 🔗 [데이터셋 출처] https://www.kaggle.com/datasets/radowanulhaque/software-defect
 
