@@ -1,5 +1,14 @@
 # Quality Intelligence | 결함 예측
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Model-Random_Forest-2E8B57)
+![SMOTE](https://img.shields.io/badge/Imbalance-SMOTE-6A5ACD)
+
 코드 메트릭으로 소프트웨어 모듈의 결함 위험도를 예측하고, QA가 우선 검토할 대상을 정하는 Streamlit 대시보드입니다.
 
 NASA MDP(JM1 + CM1)로 학습한 Random Forest 모델을 사용합니다. 모듈 메트릭이 담긴 엑셀을 올리면 결함 의심 모듈 수, 결함 비율, 위험 수준(높음 / 중간 / 낮음)을 바로 보여 줍니다. 집중 테스트 권장 목록과 권장 QA 프로세스, 세부 예측 결과를 엑셀과 PDF 보고서로 받을 수 있습니다.
